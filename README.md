@@ -3,7 +3,7 @@
 ## linebot 介紹
 - 名稱：食食走走
 - 一個當你看看附近有什麼吃的linebot
-- ID：1655245986
+- ID：@530fampr
 
 ![QRcode](images/QRcode.png)
 ## 使用方法

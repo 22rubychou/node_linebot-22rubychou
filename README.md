@@ -1,7 +1,7 @@
 - [資料來源：政府資料開放平臺_餐飲 - 觀光資訊資料庫](https://data.gov.tw/dataset/7779)
 ## 食食走走linebot 介紹
 - 名稱：食食走走
-- 一個當你看看附近有什麼吃的linebot
+- 使用axios串接政府開放api，可以查詢附近美食的line機器人
 - ID：@530fampr
 
 ![QRcode](images/QRcode.png)
